@@ -8,7 +8,8 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 
 ## 🚀 Sobre mim
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (2015)
+- 💼 Atuo na área de tecnologia desde **2006**
 - 👨‍🏫 Coordenador das Turmas de Programação no Projeto Inclus (desde 2005)
 - 🤝 Mais de 21 anos de trabalho voluntário com inclusão digital
 - 🎯 Participação na formação de mais de **2.000 alunos**
@@ -21,7 +22,7 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 ### Linguagens e Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,js,php,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,php,java,py" />
 </p>
 
 ### Banco de Dados
@@ -39,9 +40,27 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 ### Design e Edição
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,lightroom" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,lightroom,ai" height="48"/>
   <img src="assets\corel.png" height="48"/>
 </p>
+
+---
+
+## 🧭 Roadmap de Aprendizado
+
+Sequência recomendada para dominar as tecnologias listadas acima:
+
+1. **HTML** — Estruturação do conteúdo web (tags, semântica, formulários)
+2. **CSS** — Estilização visual (seletores, box model, flexbox, grid, responsividade)
+3. **JavaScript** — Lógica e interatividade no navegador (DOM, eventos, ES6+, async)
+4. **TypeScript** — _Superset_ do JS com tipagem estática (interfaces, tipos, generics)
+5. **React** — Biblioteca de componentes reativos (JSX, hooks, estado, effects)
+6. **Vite** — _Build tool_ moderna (bundler rápido, HMR, configuração zero para React/TS)
+7. **Tailwind** — _Framework_ CSS _utility-first_ (classes atômicas, _design system_, responsivo)
+8. **Node.js** — _Runtime_ JS no servidor (APIs, _file system_, npm, Express)
+9. **PHP / Java / Python** — Linguagens _backend_ tradicionais (escolha conforme o nicho)
+
+> Cada etapa constrói conhecimento de forma incremental — o próximo item é melhor compreendido após dominar o anterior. As 3 linguagens _backend_ no final estão em paralelo; foque na que atende seu objetivo.
 
 ---
 
