@@ -26,9 +26,8 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 
 ### Banco de Dados
 
-<p style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver" height="48"/>
 </p>
 
 ### Ferramentas
@@ -39,7 +38,7 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 
 ### Design e Edição
 
-<p style="display: flex; gap: 10px; align-items: center;">
+<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,lightroom" height="48"/>
   <img src="assets\corel.png" height="48"/>
 </p>
