@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img height="200" width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=gilmarbmjunior&theme=github-dark" />
+  <img height="200" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarbmjunior&layout=compact&theme=transparent&hide_border=true&locale=pt-br&card_width=700" alt="Top Languages" />
 </p>
 
 ---
