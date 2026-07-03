@@ -22,10 +22,16 @@
 
 ## 🛠️ Tecnologias
 
-### Linguagens e Frameworks
+### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,php,java,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,py" />
+</p>
+
+### Frameworks e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
 </p>
 
 ### Banco de Dados
