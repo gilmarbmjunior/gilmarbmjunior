@@ -41,9 +41,7 @@ Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino 
 
 <p style="display: flex; gap: 10px; align-items: center;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,lightroom" height="48"/>
-  <span style="width: 48px; height: 48px; overflow: hidden; background-color: rgb(196, 236, 213); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-left: 2px;">
-    <img src="https://img.icons8.com/color/512/coreldraw.png" style="width: 38px;"/>
-  </span>
+  <img src="assets\corel.jpg" height="48" style="border-radius: 10px"/>
 </p>
 
 ---
