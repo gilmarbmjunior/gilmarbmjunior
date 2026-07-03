@@ -28,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,py" />
 </p>
 
-### Frameworks e Ferramentas
+### Frameworks e Runtimes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,npm" />
 </p>
 
 ### Banco de Dados
@@ -43,7 +43,7 @@
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm,webstorm,postman" />
 </p>
 
 ### Design e Edição
