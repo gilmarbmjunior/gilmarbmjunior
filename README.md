@@ -65,7 +65,9 @@
   8. **Node.js** — _Runtime_ JS no servidor (APIs, _file system_, npm, Express)
   9. **PHP / Java / Python** — Linguagens _backend_ tradicionais (escolha conforme o nicho)
 
-  > Cada etapa constrói conhecimento de forma incremental — o próximo item é melhor compreendido após dominar o anterior. As 3 linguagens _backend_ no final estão em paralelo; foque na que atende seu objetivo.
+  > Cada etapa constrói conhecimento de forma incremental — o próximo item é melhor compreendido após dominar o anterior.
+  
+  > As 3 linguagens _backend_ no final estão em paralelo; foque na que atende seu objetivo.
 </p>
 
 ---
@@ -73,8 +75,11 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gilmarbmjunior&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=gilmarbmjunior&theme=tokyo-night" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gilmarbmjunior&theme=transparent&hide_border=true&locale=pt_BR&card_width=700&card_height=200" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img height="200" width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=gilmarbmjunior&theme=github-dark" />
 </p>
 
 ---
