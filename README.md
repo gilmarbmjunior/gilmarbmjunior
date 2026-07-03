@@ -37,7 +37,7 @@
 ### Banco de Dados
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgres" height="48"/>
 </p>
 
 ### Ferramentas
