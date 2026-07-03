@@ -1,7 +1,7 @@
-# Olá, eu sou Gilmar Júnior 👋
+# Olá, tudo bem?! 👋
 
 <p align="justify">
-  💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web, arquitetura de software e criação de soluções escaláveis.
+  Me chamo Gilmar Júnior e sou Desenvolvedor Full Stack apaixonado por desenvolvimento web, arquitetura de software e criação de soluções escaláveis.
 </p>
 
 <p align="justify">
