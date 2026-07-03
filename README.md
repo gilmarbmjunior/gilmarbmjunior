@@ -63,21 +63,28 @@
 
 ## 🧭 Roadmap de Aprendizado
 
-Sequência recomendada para dominar as tecnologias listadas acima:
+```
+🌐 Fundação Web
+├── 1. HTML        → Estrutura e semântica do conteúdo
+├── 2. CSS         → Estilização, layout (flexbox, grid), responsividade
+└── 3. JavaScript  → DOM, eventos, ES6+, assincronismo
 
-1. **HTML** — Estruturação do conteúdo web (tags, semântica, formulários)
-2. **CSS** — Estilização visual (seletores, box model, flexbox, grid, responsividade)
-3. **JavaScript** — Lógica e interatividade no navegador (DOM, eventos, ES6+, async)
-4. **TypeScript** — _Superset_ do JS com tipagem estática (interfaces, tipos, generics)
-5. **React** — Biblioteca de componentes reativos (JSX, hooks, estado, effects)
-6. **Vite** — _Build tool_ moderna (bundler rápido, HMR, configuração zero para React/TS)
-7. **Tailwind** — _Framework_ CSS _utility-first_ (classes atômicas, _design system_, responsivo)
-8. **Node.js** — _Runtime_ JS no servidor (APIs, _file system_, npm, Express)
-9. **PHP / Java / Python** — Linguagens _backend_ tradicionais (escolha conforme o nicho)
+⚙️ Base Sólida
+└── 4. TypeScript  → Tipagem estática, interfaces, generics
 
-> Cada etapa constrói conhecimento de forma incremental — o próximo item é melhor compreendido após dominar o anterior.
+⚛️ Front-end Moderno
+├── 6. React       → Componentes, JSX, hooks, estado, effects
+├── 7. Vite        → Build rápido, HMR, configuração zero
+├── 8. Next.js     → SSR, SSG, React full-stack
+└── 9. Tailwind    → CSS utility-first, design system responsivo
 
-> As 3 linguagens _backend_ no final estão em paralelo; foque na que atende seu objetivo.
+🗄️ Back-end & Infra
+├── 10. Node.js              → Runtime server-side, APIs, npm, Express
+├── 11. PHP / Java / Python  → Escolha conforme o nicho
+└── 12. Nginx                → Servidor web, proxy reverso
+```
+
+> Cada etapa constrói sobre a anterior. As linguagens _backend_ no final estão em paralelo, escolha a que melhor atende seu objetivo.
 
 ---
 
