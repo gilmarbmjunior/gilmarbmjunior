@@ -1,11 +1,15 @@
 # Olá, tudo bem?! 👋
 
 <p align="justify">
-  Me chamo Gilmar Júnior e sou Desenvolvedor Full Stack com foco em desenvolvimento web, arquitetura de software e criação de soluções escaláveis e com especial dedicação ao <strong>backend</strong> e tudo que envolve lógica do servidor, APIs e banco de dados.
+  Meu nome é Gilmar Júnior e sou Desenvolvedor Full Stack, com foco no desenvolvimento de aplicações web, arquitetura de software e criação de soluções escaláveis. Tenho especial interesse pelo desenvolvimento <strong>backend</strong>, atuando na construção de APIs robustas, modelagem de bancos de dados e implementação de regras de negócio, sempre buscando desempenho, segurança e boas práticas de desenvolvimento.
 </p>
 
 <p align="justify">
-  Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino de tecnologia. Há <strong>21 anos</strong> atuo voluntariamente no <strong>Projeto Inclus</strong>, onde sou <strong>Coordenador das Turmas de Programação</strong>, contribuindo para a formação de novos profissionais da área de tecnologia. Ao longo desse período, o projeto já formou <strong>mais de 2.000 alunos</strong> por meio de iniciativas de inclusão digital e capacitação profissional.
+  Além da minha atuação como desenvolvedor, dedico parte da minha carreira à formação de novos profissionais de tecnologia. Há <strong>21 anos</strong>, atuo como voluntário no <strong>Projeto Inclus</strong>, onde exerço a função de <strong>Coordenador das Turmas de Programação</strong>. Nesse papel, participo ativamente da capacitação de estudantes, compartilhando conhecimento técnico e incentivando o desenvolvimento de futuros profissionais da área.
+</p>
+
+<p align="justify">
+  Ao longo dessa trajetória, o <strong>Projeto Inclus</strong> já formou <strong>mais de 2.000 alunos</strong> por meio de iniciativas voltadas à inclusão digital e à qualificação profissional, contribuindo para transformar vidas e ampliar oportunidades por meio da tecnologia.
 </p>
 
 ---
