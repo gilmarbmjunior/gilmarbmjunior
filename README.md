@@ -31,7 +31,7 @@
 ### Frameworks e Runtimes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,npm" />
 </p>
 
 ### Banco de Dados
@@ -43,7 +43,7 @@
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm,webstorm,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm,webstorm,postman,nginx,vercel" />
 </p>
 
 ### Design e Edição
@@ -51,6 +51,12 @@
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,lightroom,ai" height="48"/>
   <img src="assets\corel.png" height="48"/>
+</p>
+
+### Sistemas Operacionais
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,mint" />
 </p>
 
 ---
