@@ -78,10 +78,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gilmarbmjunior&theme=transparent&hide_border=true&locale=pt_BR&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img height="200" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarbmjunior&layout=compact&theme=transparent&hide_border=true&locale=pt-br&card_width=700" alt="Top Languages" />
-</p>
-
 ---
 
 ## 💡 Atualmente
@@ -105,10 +101,3 @@
   - 🧩 Cubo Mágico (Rubik's Cube)
   - 🧠 Quebra-cabeças e desafios de lógica
 </p>
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/gilmarbmjunior
-- 📧 Email: gilmarjunior@outlook.com
