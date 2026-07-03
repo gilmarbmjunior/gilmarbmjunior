@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-  Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino de tecnologia. Há **21 anos** atuo voluntariamente no **Projeto Inclus**, onde sou **Coordenador das Turmas de Programação**, contribuindo para a formação de novos profissionais da área de tecnologia. Ao longo desse período, o projeto já formou **mais de 2.000 alunos** por meio de iniciativas de inclusão digital e capacitação profissional.
+  Além da atuação como desenvolvedor, dedico parte da minha carreira ao ensino de tecnologia. Há <strong>21 anos</strong> atuo voluntariamente no <strong>Projeto Inclus</strong>, onde sou <strong>Coordenador das Turmas de Programação</strong>, contribuindo para a formação de novos profissionais da área de tecnologia. Ao longo desse período, o projeto já formou <strong>mais de 2.000 alunos</strong> por meio de iniciativas de inclusão digital e capacitação profissional.
 </p>
 
 ---
